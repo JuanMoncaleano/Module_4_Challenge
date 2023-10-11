@@ -2,7 +2,7 @@
 
 School Performance Analysis with Pandas: My Contribution
 
-##Project Overview##
+# Project Overview
 
 This GitHub repository showcases my work in performing an in-depth analysis of standardized test scores within a school district. Leveraging the power of Pandas DataFrames and Jupyter Notebook, the project aims to assist local governance in making informed decisions on school budgets and educational strategies.
 
